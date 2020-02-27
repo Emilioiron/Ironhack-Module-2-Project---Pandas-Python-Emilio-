@@ -44,6 +44,14 @@
 * Due to the short time it has taken to analyze the data, no clear conclusion has been reached on the variation in the price of energy based on the production / demand of renewable energy.
 * The price of energy has a very high percentage of taxes on the one hand. On the other hand, energy production is auctioned daily according to demand but distribution in the electricity grid is common throughout the country. In addition, energy is exported from other countries such as France.
 * For all this there is no direct relationship in the variation of the price and the variation of renewable energy production.
+* In this [link](https://public.tableau.com/profile/emilio.jose.pati.o.rodrigo#!/vizhome/ProjectTableau_module_2_2/StudyenergymaincitiesSpain?publish=yes) you can consult the Tableau project.
+
+## Useful Resources
+
+* [Tableau Getting Started Tutorial](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)
+* [Tableau Training Videos](https://www.tableau.com/learn/training)
+* [Tableau Learning Library](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html)
+
 
 ## Author
 
